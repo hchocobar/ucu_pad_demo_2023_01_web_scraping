@@ -1,0 +1,4 @@
+requests==2.31.0
+bs4
+numpy==1.25.1
+pandas==2.0.3
