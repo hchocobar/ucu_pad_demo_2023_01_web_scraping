@@ -77,7 +77,3 @@ import ploty.express as px
 
 .to_csv
 
-
-fuente: 
-
-https://github.com/sbuffose/data-webinar/blob/master/data-workshop.ipynb
